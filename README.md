@@ -9,7 +9,7 @@ evidence, and are measured honestly. MS in Computer Science, Stony Brook Univers
 
 - 🔭 **Focus:** LLM efficiency (quantization, LoRA/DPO, distillation) · retrieval & citation grounding · on-device CV · causal inference
 - 🧪 **How I work:** pre-register the question, measure on committed artifacts, report the result even when it's negative
-- 📫 Reach me: lashaama@chamamama.com
+- 📫 Reach me: sandro.amaglobeli@stonybrook.edu
 
 ---
 
